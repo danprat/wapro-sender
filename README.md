@@ -1,50 +1,32 @@
-Per Chrome Web Store Developer Support confirmation (case ID: 8-5685000039671), 
-this extension is compliant with the impersonation policy. 
-
-The previous rejection was reviewed and cleared, and I was advised to resubmit with a new version. 
-I have incremented the manifest version and re-submitted accordingly. 
-
-Please review this new submission under the above case reference. 
-Thank you for your support and assistance.
-
 # Pro Sender - Free Bulk WhatsApp Sender
 
-## Copyright Notice
+## Description
 
-**© 2024 Ocube It. All Rights Reserved**
+This is a modified Chrome extension for bulk WhatsApp messaging. It allows users to send messages to multiple contacts efficiently through the WhatsApp Web interface.
 
-This code and all associated files are the exclusive property of Ocube It (ocubeit@gmail.com). This software is proprietary and confidential.
+## Features
 
-### Legal Notice
+- Bulk message sending to multiple contacts
+- No premium restrictions (fully bypassed)
+- No external API dependencies
+- Works directly with WhatsApp Web
 
-- **Ownership**: This code belongs to us and is our exclusive intellectual property
-- **Restrictions**: Unauthorized copying, distribution, modification, or use of this code is strictly prohibited
-- **Confidentiality**: This code contains proprietary information and trade secrets
-- **License**: No license is granted to any third party to use, modify, or distribute this code
+## Installation
 
-### Project Information
+1. Download or clone this repository
+2. Open Chrome and go to `chrome://extensions/`
+3. Enable "Developer mode" in the top right
+4. Click "Load unpacked" and select the extension folder
+5. Navigate to WhatsApp Web (web.whatsapp.com)
+6. Click the extension icon to open the popup and start sending bulk messages
 
-- **Name**: Pro Sender - Free Bulk WhatsApp Sender
-- **Version**: 1.1.4
-- **Type**: Browser Extension
-- **Platform**: Chrome/Chromium-based browsers
+## Usage
 
-### Description
+- Open WhatsApp Web in your browser
+- Use the extension popup to input recipient numbers and messages
+- Send bulk messages without any limitations
 
-This is a WhatsApp bulk messaging extension that allows users to send messages to multiple contacts efficiently through the WhatsApp Web interface.
+## Note
 
-### Usage Rights
-
-This code is intended for internal use only. Any unauthorized access, use, reproduction, or distribution of this code, in whole or in part, is strictly forbidden and may result in legal action.
-
-### Contact
-
-For any inquiries regarding licensing or usage rights, please contact:
-
-**Ocube It**  
-Email: ocubeit@gmail.com
-
----
-
-**IMPORTANT**: This software is protected by copyright law. Violation of these terms may result in legal consequences.
+This extension has been modified to work without premium features or external API calls.
 
